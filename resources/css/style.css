@@ -1,5 +1,8 @@
 html{text-align: center;}
-#hero{background-image: url("../img/the-flatiron-building.png")}
+.hero{background: url("../img/the-flatiron-building.png");}
 nav ul li{list-style-type: none; font-family: Helvetica; font-size: 18px;}
 nav ul li a{color: white;}
 h1{font-family: Helvetica; font-size: 70px; font-weight: bold; color: white;}
+
+footer{text-align: left; display: inline;}
+footer nav ul li{display: inline;}
