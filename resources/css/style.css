@@ -4,5 +4,7 @@ nav ul li{list-style-type: none; font-family: Helvetica; font-size: 18px;}
 nav ul li a{color: white;}
 h1{font-family: Helvetica; font-size: 70px; font-weight: bold; color: white;}
 
-footer{text-align: left; display: inline;}
-footer nav ul li{display: inline;}
+footer{text-align: left; color: white; font-gamily: Helvetica; font-size: 11px; background-color: dimgray;}
+footer a{color: white;}
+
+#ourProcess{font-family: Helvetica; font-size: 32px; font-weight: bold;}
